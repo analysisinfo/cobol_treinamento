@@ -2,13 +2,8 @@ Iniciar novo git na máquina
 ## git init
 
 Definir as configurações do usuario 
-<<<<<<< HEAD
 ## git config --local user.name "Paulo Negreiros"
 ## git config --local user.email "paulohnegreiros@gmail.com"
-=======
-## git config --local user.name analysisinfo
-## git config --local user.email paulohnegreiros@gmail.com
->>>>>>> 2ac0fd8e5f42519eb774ccea67ed13aea5945ec7
 
 Baixar os arquivos do git
 ## git clone --branch <nome da branch> main <link do repositório> https://github.com/analysisinfo/cobol_treinamento.git
@@ -19,7 +14,6 @@ Verificar a Branch
 Baixar as atualizações
 ## git pull
 
-<<<<<<< HEAD
 Adicinar o arquivos criado
 ## git add <nome do arquivo>
 
@@ -35,11 +29,3 @@ Criar o commit
 Enviar as atualizações locais para o remoto
 ## git push <remoto> <branch>
 ## git push origin main
-
-Remover arquivo do commit
-=======
-Enviar as atualizações
-## git puch
-
-
->>>>>>> 2ac0fd8e5f42519eb774ccea67ed13aea5945ec7
