@@ -29,5 +29,3 @@ Criar o commit
 Enviar as atualizações locais para o remoto
 ## git push <remoto> <branch>
 ## git push origin main
-
-
